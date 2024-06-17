@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.7.0",
+    "@react-email/components": "^0.0.16",
+    "@react-email/html": "^0.0.7",
+    "@tsparticles/vue3": "^3.0.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.2",
+    "feather-icons": "^4.29.1",
+    "nuxt": "^3.11.2",
+    "react-email": "^2.1.1",
+    "resend": "^3.2.0",
+    "sass": "^1.75.0",
+    "swiper": "^11.1.1",
+    "tsparticles": "^3.3.0",
+    "typed.js": "^2.1.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "nuxt-particles": "^0.3.0"
+  }
+}
